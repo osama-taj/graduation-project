@@ -5,7 +5,7 @@ There is also a website for this project [HalqatWasl site](https://github.com/Ha
 
 
 
-# some screenchots for app:
+# some screens  hots for app:
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/118615324/202890097-e9accbe8-d1eb-4d4d-aa09-ecfb8de918cd.png" width="200" hight="200"  />
